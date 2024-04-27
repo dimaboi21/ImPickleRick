@@ -1,0 +1,14 @@
+.name_char{
+    font-style: oblique;
+    border: 1px solid #bd1313;
+    max-width: 150px;
+    width: 100%;
+    text-align: center;
+}
+.photo_char{
+    border: 2px solid #000;
+    border-radius: 150px;
+    color: black;
+    max-width: 300px;
+    width: 100%;
+}
